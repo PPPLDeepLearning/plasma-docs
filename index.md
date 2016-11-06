@@ -20,9 +20,9 @@ custom_css: mainpage
 </div>
 
 <div style="width: 260px; vertical-align: top; display: inline-block; margin-right: 30px; margin-bottom: 20px; text-align: left;">
-<h2><a href="http://TBA/python/latest/">Python reference</a></h2>
+<h2><a href="http://tigress-web.princeton.edu/~alexeys/python/latest/">Python reference</a></h2>
 <p style="height: 45px;">Sphinx docs for the latest version of Plasma-Python.</p>
-<a href="http://TBA/python/latest/"><img src="images/sphinx.png" style="margin: 0px;" alt="Sphinx"></a>
+<a href="http://tigress-web.princeton.edu/~alexeys/python/latest/"><img src="images/sphinx.png" style="margin: 0px;" alt="Sphinx"></a>
 </div>
 
 </div>

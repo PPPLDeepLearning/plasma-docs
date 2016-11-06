@@ -1,6 +1,6 @@
 permalink: /:year/:month/:day/:title/
 # this sets the style for permalinks. The date formatting (/:year/:month/:day/) will only apply to blog posts, while the pages will just show the title.
-url: http:// #FIXME
+url: http://tigress-web.princeton.edu/~alexeys
 # where you plan to publish your site
 basebaseurl: "/"
 baseurl: "/docs"
