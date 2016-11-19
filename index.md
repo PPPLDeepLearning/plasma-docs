@@ -8,7 +8,7 @@ custom_css: mainpage
 <div style="text-align: center;">
 
 <div style="width: 260px; vertical-align: top; display: inline-block; margin-right: 30px; margin-bottom: 20px; text-align: left;">
-<h2><a href="http://tigress-web.princeton.edu/~alexeys/install">Installation</a></h2>
+<h2><a href="http://tigress-web.princeton.edu/~alexeys/docs/install">Installation</a></h2>
 <p style="height: 45px;">Getting it.</p>
 <a href="install"><img src="images/install.png" style="margin: 0px;" alt="Installation"></a>
 </div>
